@@ -2,6 +2,7 @@
 
 Una herramienta de línea de comandos para buscar subdominios usando los certificados SSL/TLS registrados en [crt.sh](https://crt.sh).
 
+> Esta herramienta la hice con el motivo de poder tener un buen output de archivo para automatizar RECON.
 ## Características
 
 - 🔍 Búsqueda rápida de subdominios
